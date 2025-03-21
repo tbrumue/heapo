@@ -1,2 +1,3 @@
-# heapo
-HEAPO – An open dataset for heat pump optimization with smart electricity meter data and on-site inspection protocols
+# HEAPO – An Open Dataset for Heat Pump Optimization with Smart Electricity Meter Data and On-Site Inspection Protocols
+
+This repository is being prepared for a major code release. Please check back soon for updates!
